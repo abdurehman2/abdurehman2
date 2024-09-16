@@ -78,10 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abdurehman2/abdurehman2/output/snake.svg" alt="Snake animation" />
-
-###
-
 ---
 [![](https://visitcount.itsvg.in/api?id=abdurehman2&icon=0&color=3)](https://visitcount.itsvg.in)
 
