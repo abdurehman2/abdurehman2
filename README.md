@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdur Rehman and I'm a software developer, from Islamabad</p>
+<p align="left">My name is Abdur Rehman and I'm a software developer, from Islamabad.I have with a passion for designing and developing innovative software solutions and I am always eager to learn new skills and stay updated with the latest industry trends. I have 2 years of experience working on a variety of different software projects, both independently and as part of a team. I have experience in software design, coding, and collaboration. I am particularly interested in software development for web applications./p>
 
 ###
 
